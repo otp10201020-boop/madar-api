@@ -1,5 +1,12 @@
 {
   "name": "madar-api",
   "main": "src/index.js",
-  "compatibility_date": "2026-09-29"
+  "compatibility_date": "2026-09-29",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "madar-db",
+      "database_id": "fde56019-40f6-4f4a-8076-022ba87a5aec"
+    }
+  ]
 }
